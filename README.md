@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mohan-siva-kumar-magapati-6430a1291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/Mohansivakumar017" target="_blank">
+  <a href="https://leetcode.com/Mohansivakumar17" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Knight_1988-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="mailto:magapatimohan@gmail.com">
@@ -103,7 +103,7 @@
 ### 🏆 Competitive Programming & Problem Solving
 
 <div align="center">
-  <a href="https://leetcode.com/Mohansivakumar017">
+  <a href="https://leetcode.com/Mohansivakumar17">
     <img src="https://leetcard.jacoblin.cool/Mohansivakumar017?theme=dark&font=Ubuntu" alt="Mohan's LeetCode Stats" />
   </a>
 </div>
