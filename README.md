@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Mohan Siva Kumar Portfolio Banner"/>
+<img src="./banner.jpg" width="100%" alt="Mohan Siva Kumar Portfolio Banner"/>
 
 <br><br>
 
