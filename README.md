@@ -14,11 +14,17 @@
 <a href="https://leetcode.com/Mohansivakumar17">
 <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
+<a href="https://codeforces.com/profile/mohan_siva_kumar">
+<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
+</a>
+<a href="https://www.codechef.com/users/mohansivakumar">
+<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/Mohansivakumar17">
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+</a>
 <a href="mailto:magapatimohan@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
-</a>
-<a href="#certifications">
-<img src="https://img.shields.io/badge/AWS_DVA--C02-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 </a>
 
 </div>
@@ -117,11 +123,11 @@ mohan@dev:~$ status
 
 <div align="center">
 
-| Status | Certification |
-|:---:|---|
-| 🟢 `OK` | **AWS Certified Developer – Associate (DVA-C02)** |
-| 🟢 `OK` | **Oracle Certified Foundations Associate — Java** |
-| 🟢 `OK` | **Oracle Certified Foundations Associate — Database** |
+| Status | Certification | Credential |
+|:---:|---|:---:|
+| 🟢 `OK` | **AWS Certified Developer – Associate (DVA-C02)** | [![AWS Credential](https://img.shields.io/badge/AWS-Verify_Credential-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/e4eec3d6-3bce-40c3-a0f2-0b7de01663b6/public_url) |
+| 🟢 `OK` | **Oracle Certified Foundations Associate — Java** | [![Oracle Credential](https://img.shields.io/badge/Oracle-Verify_Credential-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=4B43AEE441DCBE0EDD19A844738538977018EB7E525E26BFF87F67B802456E35) |
+| 🟢 `OK` | **Oracle Certified Foundations Associate — Database** | [![Oracle Credential](https://img.shields.io/badge/Oracle-Verify_Credential-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=3FAE3DB08D22033A6D3309FF9DCB0C81F5B1DC2B71BE5C2E973795C5A51F012C) |
 
 <br>
 
