@@ -8,28 +8,14 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/mohan-siva-kumar-magapati-6430a1291">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-<a href="https://leetcode.com/Mohansivakumar17">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-<a href="https://codeforces.com/profile/mohan_siva_kumar">
-<img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
-</a>
-<a href="https://www.codechef.com/users/mohansivakumar">
-<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/profile/Mohansivakumar17">
-<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
-</a>
-<a href="mailto:magapatimohan@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
-</a>
+<a href="https://www.linkedin.com/in/mohan-siva-kumar-magapati-6430a1291"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+<a href="https://leetcode.com/Mohansivakumar17"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://codeforces.com/profile/mohan_siva_kumar"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>
+<a href="https://www.codechef.com/users/mohansivakumar"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/Mohansivakumar17"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
+<a href="mailto:magapatimohan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5555"/></a>
 
 </div>
-
----
 
 ## 🟢 `mohan@dev:~$ whoami`
 
